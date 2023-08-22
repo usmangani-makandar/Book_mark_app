@@ -16,13 +16,6 @@ This website aims to build the bookmark app which gives the service of saving a 
 
 
 
-
-
-
-- “About” on hover card pop up information:
-
-`	`![img](../main/pictures/About.png) 
-
 - Adding new bookmark 
 
 ![img](../main/pictures/newBM.png)
